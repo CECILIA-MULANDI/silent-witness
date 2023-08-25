@@ -1,0 +1,1 @@
+With a focus on confidentiality, SilentWitness enables users to share crucial information about criminal activities without revealing their identities. Through encrypted submissions, our system ensures that personal details remain private, fostering a safe environment for reporting.
